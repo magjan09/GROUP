@@ -5,7 +5,7 @@ package github.com.group;
  */
 public class maga {
     public static void main(String[] args) {
-        System.out.println("Maga");
+        System.out.println("My Name Is Dariga");
     }
 
 }
